@@ -1,6 +1,6 @@
 # Credit Risk Analysis
 
-## The purpose of this analysis was to use sampling algoithms and machine learning models to reduce bias and predict credit risk to help a Credit Card Lending company provide a more reliable loan experience and more accurate identification for loan candidates. 
+## The purpose of this analysis was to use sampling algorithms and machine learning models to reduce bias and predict credit risk to help a Credit Card Lending company provide a more reliable loan experience and more accurate identification for loan candidates. 
 
 ## Project Overview:
 1. Use Resampling Models to Predict Credit Risk
