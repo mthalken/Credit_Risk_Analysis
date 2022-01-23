@@ -15,19 +15,14 @@
     - [credit_risk_ensemble.ipynb](https://github.com/mthalken/Credit_Risk_Analysis/blob/main/notebooks/credit_risk_ensemble.ipynb)
 
 ## Results 
-### The analysis
-- What are two conclusions you can draw?
 
-- What can you conclude?
+From our 6 different machine learning tests that when looking at balanced accuracy score, precision, and recall the Easy Ensemble Adaboost Classifier would be the best to choose at the following:
+    - 93% Balanced Accuracy Score
+    - 7% Precision
+    - 91% Recall
 
-- What are some limitations of this dataset?
+![png](https://github.com/mthalken/Credit_Risk_Analysis/blob/main/images/resampling_results_table.png)
 
-- What are some other possible tables and/or graphs that we could create?
+![png](https://github.com/mthalken/Credit_Risk_Analysis/blob/main/images/ensemble_results_table.png)
 
-## Summary
-
-
-
-
-image link: ![png](link)
-clink link: [here](link)
+Even though the Easy Ensemble Adaboost Classifier does not have a very reliable precision score out of the 6 machine learning models used the Easy Ensemble Adaboost Classifier would be the best model for credit card analysis within this dataset. 
