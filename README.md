@@ -4,8 +4,14 @@
 
 ## Project Overview:
 1. Use Resampling Models to Predict Credit Risk
-2. Use the SMOTEEN algorithm to predict credit risk
-3. Use ensemble classifiers to predict credit risk
+    - Naive Random Oversampling
+    - SMOTE Oversampling
+    - Undersampling
+    - SMOTEEN (Over and Under Sampling)
+2. Use Ensemble Models to Predict Credit Risk
+    - Balanced Random Forest Classifier
+    - Easy Ensemble AdaBoost Classifier
+3. Interpret results and determine which supervised learning algorithm is best used for this dataset
 
 ## Resources
 - Source of data: [LoanStats_2019Q1.csv](https://github.com/mthalken/Credit_Risk_Analysis/blob/main/resources/LoanStats_2019Q1.csv)
